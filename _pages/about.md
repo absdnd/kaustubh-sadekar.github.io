@@ -23,8 +23,8 @@ Here I write about my projects
 ### [See all projects](/portfolio.html)
 
 <figure class="half">
-    <a href="/images/image-alignment-150x150.jpg"><img src="/images/image-alignment-150x150.jpg"></a>
-    <a href="/images/image-alignment-150x150.jpg"><img src="/images/image-alignment-150x150.jpg"></a>
+    <a href="/images/profile.png"><img src="/image/profile.png"></a>
+    <a href="/images/profile.png"><img src="/images/profile.png"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
