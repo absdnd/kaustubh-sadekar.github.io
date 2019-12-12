@@ -11,28 +11,26 @@ This is the home page where I write about myself
 
 
 Research Interests
-======
+------------------
 Here I list down my research areas
 - Robotics
 - Computer Vision
 - Reinforcement Learning
 
 Major Projects
-======
+--------------
 Here I write about my projects
 
 [###See all projects](/portfolio.html)
 
 Experience
-======
+----------
 Here I write about my projects
 
-[###See all projects](/portfolio.html)
-
-
+### [See all projects](/portfolio.html)
 
 My Philosophy
-------
+-------------
 Here comes my philosophy.
 
 
