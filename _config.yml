@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaustubh Sadekar"
-  avatar           : "https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/profile.png"
+  avatar           : "profile.png"
   bio              : "Computer vision and robotics researcher."
   location         : "Mumbai, India"
   employer         :
