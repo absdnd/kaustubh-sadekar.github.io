@@ -22,11 +22,10 @@ Major Projects
 Here I write about my projects
 ### [See all projects](/portfolio.html)
 
-<figure class="third">
-	<img src="https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/images/image-alignment-150x150.jpg">
-	<img src="https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/images/image-alignment-150x150.jpg">
-	<img src="https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/images/image-alignment-150x150.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+<figure class="half">
+    <a href="/images/image-alignment-150x150.jpg"><img src="/images/image-alignment-150x150.jpg"></a>
+    <a href="/images/image-alignment-150x150.jpg"><img src="/images/image-alignment-150x150.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
 Experience
