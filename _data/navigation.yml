@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /profile/
+    url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
