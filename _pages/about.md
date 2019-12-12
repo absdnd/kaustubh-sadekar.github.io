@@ -20,14 +20,13 @@ Here I list down my research areas
 Major Projects
 --------------
 Here I write about my projects
+### [See all projects](/portfolio.html)
 
-[###See all projects](/portfolio.html)
 
 Experience
 ----------
 Here I write about my projects
 
-### [See all projects](/portfolio.html)
 
 My Philosophy
 -------------
