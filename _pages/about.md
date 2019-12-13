@@ -23,7 +23,7 @@ Here I write about my projects
 ### [See all projects](/portfolio.html)
 
 <figure style="width: 100px" class="align-right">
-  <img src="https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/images/profile.png" alt="">
+  <img src="/images/profile.png" alt="">
 </figure> 
 
 Experience
