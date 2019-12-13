@@ -12,13 +12,13 @@ I am a research associate at Indian Institute of Technology Bombay. It's quite f
 
 Experience
 ----------
-- **Research Associate** Indian Institute of Technology Bombay *May 2019 - Ongoing*
+- **Research Associate** Indian Institute of Technology Bombay *(May 2019 - Ongoing)*
 
-- **Computer Vision Software Developer** GeekyBee AI pvt.ltd *July 2018 - May 2019*
+- **Computer Vision Software Developer** GeekyBee AI pvt.ltd *(July 2018 - May 2019)*
 
-- **Computer Vision Intern** Technosamarthyam *December 2017- June -2018*
+- **Computer Vision Intern** Technosamarthyam *(December 2017- June -2018)*
 
-- **Robotics and Automation Intern** Ford India pvt.ltd *june 2017 - August 2017* 
+- **Robotics and Automation Intern** Ford India pvt.ltd *(june 2017 - August 2017)* 
 
 Responsibilities I took during my undergrad studies
 ---------------------------------------------------
