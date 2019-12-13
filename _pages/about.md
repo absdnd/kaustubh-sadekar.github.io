@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - image_path: /images/profile.png
+  - image_path: profile.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - image_path: /images/profile.png
+  - image_path: profile.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---
