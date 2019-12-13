@@ -20,7 +20,8 @@ Here I list down my research areas
 Major Projects
 --------------
 Here I write about my projects
-- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.![image-left](/images/profile.png){: .align-left}
+- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
+![image-left](/images/profile.png){: .align-left}
 I am just testing this so i know the allignments and all the stuff ok so chill and just enjoy the post dude.
 
 ### [See all projects](/portfolio.html)
