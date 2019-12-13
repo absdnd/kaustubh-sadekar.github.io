@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the home page where I write about myself
-
+I am a research associate at Indian Institute of Technology Bombay. I am interested in developing robust computer vision algorithms for different types of robotic systems. I am facinated by the fact that using math and computer programing we enable a machine to understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust vision system which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
 
 Research Interests
 ------------------
