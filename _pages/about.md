@@ -23,10 +23,10 @@ Here I write about my projects
 ### [See all projects](/portfolio.html)
 
 <figure class="half">
-    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
-    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
-    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
-    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png" height="50" width="100"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png" height="50" width="100"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png" height="50" width="100"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png" height="50" width="100"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
