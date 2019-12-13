@@ -20,11 +20,12 @@ Here I list down my research areas
 Major Projects
 --------------
 Here I write about my projects
-### [See all projects](/portfolio.html)
-
+- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great. I am just testing this so i know the allignments and all the stuff ok so chill and just enjoy the post dude.
 <figure style="width: 100px" class="align-right">
   <img src="/images/profile.png" alt="">
 </figure> 
+### [See all projects](/portfolio.html)
+
 
 Experience
 ----------
