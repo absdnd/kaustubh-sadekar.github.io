@@ -20,12 +20,13 @@ Here I list down my research areas
 Major Projects
 --------------
 
+Here I write about my projects
+I do many projects and some of the major ones are listed below.
+
 <figure style="width: 50px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure>
 
-Here I write about my projects
-I do many projects and some of the major ones are listed below.
 - THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
 I am just testing this so i know the allignments and all the stuff ok so chill and just enjoy the post dude.
 
