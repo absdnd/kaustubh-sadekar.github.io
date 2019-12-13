@@ -20,10 +20,9 @@ Here I list down my research areas
 Major Projects
 --------------
 
-Here I write about my projects
 I do many projects and some of the major ones are listed below.
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure>
 
