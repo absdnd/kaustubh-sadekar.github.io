@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robot robotic system with non-linear dynamics.
+I am a Research Associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robot robotic system with non-linear dynamics.
 
 
 Experience
@@ -20,13 +20,6 @@ Experience
 
 - **Robotics and Automation Intern** Ford India pvt.ltd *(june 2017 - August 2017)* 
 
-Responsibilities I took during my undergrad studies
----------------------------------------------------
-- Advisor @ Cretus - The Robotics and Automation Club of PDPU `August 2017 - May - 2018`
-- President @ Cretus - The Robotics and Automation Club of PDPU `August 2016 - August - 2017`
-- Motor controller division @ Team Kaizen `August 2015 - May 2017`
-- Representative @ IEEE Student Branch PDPU `August 2016 - August 2017`
-
 Research Interests
 ------------------
 Here I list down my research areas
@@ -38,17 +31,7 @@ Here I list down my research areas
 Major Projects
 --------------
 
-Some more changed the Awesome first line about robotics projects.
-<figure style="width: 100px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
-</figure>
-
 - THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
-
-
-<figure style="width: 100px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
-</figure>
 
 - THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
 
