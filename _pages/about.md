@@ -21,7 +21,7 @@ Major Projects
 --------------
 
 <figure style="width: 50px" class="align-left">
-  <img src="/images/profile.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure>
 
 Here I write about my projects
