@@ -35,7 +35,7 @@ Here I list down my research areas
 Major Projects
 --------------
 
-[SPARK - A Robotic Sketching Arm](/_portfolio/portfolio-1.md)
+[SPARK - A Robotic Sketching Arm](/portfolio/portfolio-1.md)
 
 ### [See all projects](/portfolio.html)
 
