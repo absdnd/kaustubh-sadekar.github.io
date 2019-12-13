@@ -20,11 +20,18 @@ Here I list down my research areas
 Major Projects
 --------------
 
-Awesome first line about robotics projects.
+Changed the Awesome first line about robotics projects.
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure>
 - THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
+
+
+<figure style="width: 100px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
+</figure>
+- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
+
 
 I am just testing this so i know the allignments and all the stuff ok so chill and just enjoy the post dude.
 
