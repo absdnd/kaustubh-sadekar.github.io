@@ -23,8 +23,7 @@ Here I write about my projects
 ### [See all projects](/portfolio.html)
 
 <figure style="width: 100px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}images/profile.png" alt="">
-  <figcaption>Feels good to be right all the time.</figcaption>
+  <img src="https://github.com/kaustubh-sadekar/kaustubh-sadekar.github.io/blob/master/images/profile.png" alt="">
 </figure> 
 
 Experience
