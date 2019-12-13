@@ -25,6 +25,8 @@ Here I write about my projects
 <figure class="half">
     <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
     <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
+    <a href="/images/profile2.png"><img src="/images/profile2.png"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
