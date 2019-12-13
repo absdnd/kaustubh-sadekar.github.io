@@ -23,20 +23,19 @@ Experience
 Research Interests
 ------------------
 Here I list down my research areas
+- Multi-view geometry and 3D geconstruction.
+- Image processing 
+- Computer vision
+- 360 images and videos
 - Robotics
-- Computer Vision
 - Reinforcement Learning
+- Machine Learning
 
 
 Major Projects
 --------------
 
-- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
-
-- THis is a cool project just a few lines about the project as fillers and then we will end the description and then everything will be awesome and great.
-
-I am just testing this so i know the allignments and all the stuff ok so chill and just enjoy the post dude.
-
+[SPARK - A Robotic Sketching Arm](/_portfolio/portfolio-1.md)
 
 ### [See all projects](/portfolio.html)
 
