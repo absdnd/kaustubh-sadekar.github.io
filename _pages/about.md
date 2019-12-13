@@ -12,20 +12,21 @@ I am a research associate at Indian Institute of Technology Bombay. It's quite f
 
 Experience
 ----------
-## - Research Associate `May 2019 - Ongoing`
-- Indian Institute of Technology Bombay 
-## - Computer Vision Software Developer `July 2018 - May 2019`
-- GeekyBee AI pvt.ltd 
-## - Computer Vision Intern `December 2017- June -2018`
-- Technosamarthyam 
-## Robotics Intern `june 2017 - August 2017`
-- Ford India pvt.ltd 
+- **Research Associate `May 2019 - Ongoing`**
+  - Indian Institute of Technology Bombay 
+- **Computer Vision Software Developer `July 2018 - May 2019`**
+  - GeekyBee AI pvt.ltd 
+- **Computer Vision Intern `December 2017- June -2018`**
+  - Technosamarthyam 
+- **Robotics Intern `june 2017 - August 2017`**
+  - Ford India pvt.ltd 
 
 Responsibilities I took during my undergrad studies
 ---------------------------------------------------
-#### Advisor @ Cretus - The Robotics and Automation Club of PDPU `August 2017 - May - 2018`
-#### President @ Cretus - The Robotics and Automation Club of PDPU `August 2016 - August - 2017`
-#### Representative @ IEEE Student Branch PDPU `August 2016 - August 2017`
+- Advisor @ Cretus - The Robotics and Automation Club of PDPU `August 2017 - May - 2018`
+- President @ Cretus - The Robotics and Automation Club of PDPU `August 2016 - August - 2017`
+- Motor controller division @ Team Kaizen `August 2015 - May 2017`
+- Representative @ IEEE Student Branch PDPU `August 2016 - August 2017`
 
 Research Interests
 ------------------
