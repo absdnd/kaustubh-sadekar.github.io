@@ -20,7 +20,7 @@ Here I list down my research areas
 Major Projects
 --------------
 
-I do many projects and some of the major ones are listed below.
+Awesome first line about robotics projects.
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure>
