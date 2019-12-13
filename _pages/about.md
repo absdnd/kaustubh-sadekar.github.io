@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research associate at Indian Institute of Technology Bombay. It's quite facinating for me, that using math and computer programing we can make machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision system which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
+I am a research associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision system which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
 
 Research Interests
 ------------------
