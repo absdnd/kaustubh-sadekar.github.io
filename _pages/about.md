@@ -37,23 +37,23 @@ Major Projects
 
 <div class="gallery">
   <figure>
-    <img src="images/profile.png">
+    <img src="/images/profile.png">
     <figcaption>Julie's Rabbit Ears</figcaption>
   </figure>
   <figure>
-    <img src="images/profile.png">
+    <img src="/images/profile.png">
     <figcaption>The Innocent Look</figcaption>
   </figure>
   <figure>
-    <img src="images/profile.png">
+    <img src="/images/profile.png">
     <figcaption>Big Eyed Buggy</figcaption>
   </figure>
   <figure>
-    <img src="images/profile.png">
+    <img src="/images/profile.png">
     <figcaption>The Saint Doggo</figcaption>
   </figure>
   <figure>
-    <img src="images/profile.png">
+    <img src="/images/profile.png">
     <figcaption>Big Eyed Buggy</figcaption>
   </figure>
 </div>
