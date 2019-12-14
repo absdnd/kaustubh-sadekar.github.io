@@ -42,8 +42,6 @@ Here I list down my research areas
 Major Projects
 --------------
 
-{% include feature_row %}
-
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
 
@@ -59,6 +57,8 @@ Self designed and fabricated machine capable of classifying and sorting full and
 [Computer vision based algorithm for lump detection in optic fiber cables](portfolio/p3-lump-detection-algorithm/)
 Designed a custom algotihm for detection of lumps in fibre optic cables for a company. The software was written using OpenCV.
 
+
+{% include feature_row %}
 
 
 ### [See all projects](/portfolio.html)
