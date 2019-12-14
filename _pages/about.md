@@ -6,6 +6,21 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+feature_row:
+  - image_path: /images/profile.png
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/profile.png
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/profile.png
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 I am a Research Associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
 
@@ -34,15 +49,8 @@ Here I list down my research areas
 
 Major Projects
 --------------
-<figure style="width: 100px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
-</figure> 
-<figure style="width: 100px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
-</figure> 
-<figure style="width: 100px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
-</figure> 
+
+{% include feature_row %}
 
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
