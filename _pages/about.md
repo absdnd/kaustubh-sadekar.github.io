@@ -35,6 +35,32 @@ Here I list down my research areas
 Major Projects
 --------------
 
+
+.gallery{
+  display: flex;
+  width: 900px;
+  margin: auto;
+  justify-content: space-between;
+  border: 2px dashed gray;
+}
+figure{
+  width: 200px;
+  margin: 0;
+  border: 1px solid #777;
+  padding: 8px;
+  flex-shrink: 0;
+}
+figure img{
+  width: 100%;
+}
+figure figcaption{
+  text-align: center;
+  padding: 8px 4px;
+}
+* {
+  box-sizing: border-box;
+}
+
 <div class="gallery">
   <figure>
     <img src="/images/profile.png">
@@ -57,6 +83,7 @@ Major Projects
     <figcaption>Big Eyed Buggy</figcaption>
   </figure>
 </div>
+
 
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
