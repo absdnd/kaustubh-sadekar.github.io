@@ -35,8 +35,31 @@ Here I list down my research areas
 Major Projects
 --------------
 
-[Autonomous Goods Management System Robot](portfolio/p4-autonomous-goods-management-system/)
-Developed a prototype of autonomous goods management robotic system. The proect was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Oregon.
+<div class="gallery">
+  <figure>
+    <img src="images/profile.png">
+    <figcaption>Julie's Rabbit Ears</figcaption>
+  </figure>
+  <figure>
+    <img src="images/profile.png">
+    <figcaption>The Innocent Look</figcaption>
+  </figure>
+  <figure>
+    <img src="images/profile.png">
+    <figcaption>Big Eyed Buggy</figcaption>
+  </figure>
+  <figure>
+    <img src="images/profile.png">
+    <figcaption>The Saint Doggo</figcaption>
+  </figure>
+  <figure>
+    <img src="images/profile.png">
+    <figcaption>Big Eyed Buggy</figcaption>
+  </figure>
+</div>
+
+[Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
+Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
 
 [TEEVRA Electric Car](portfolio/p5-teevra-electric-car/) 
 As part of team Kaizen, developed a real scale prototype electric car and secured 16th rank in Asia at Shell Eco-Marathon Asia 2017 held in Singapore. I developed the code for the power electronic of  BLDC motor of the electric car.
@@ -45,7 +68,7 @@ As part of team Kaizen, developed a real scale prototype electric car and secure
 A self designed 3DOF robotic arm capable of sketching any image given as input. The robot was developed using ROS and OpenCV.
 
 [Computer vision based cashew sorting machine](portfolio/p2-cashew-sorting-machine/) 
-Self designed and fabricated machine capable of classifying and sorting full and broken cashews using ROS and OpenCV implimented on Raspberry Pi.
+Self designed and fabricated machine capable of classifying and sorting full and broken cashews using ROS and OpenCV implimented on Raspberry Pi. 
 
 [Computer vision based algorithm for lump detection in optic fiber cables](portfolio/p3-lump-detection-algorithm/)
 Designed a custom algotihm for detection of lumps in fibre optic cables for a company. The software was written using OpenCV.
