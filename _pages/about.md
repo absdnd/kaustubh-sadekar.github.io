@@ -35,29 +35,10 @@ Here I list down my research areas
 Major Projects
 --------------
 
-<div class="gallery">style="width: 150px"
-  <figure style="width: 150px">
-   ile.png">
-    <figcaption>Julie's Rabbit Ears</figcaption>
-  </figure>
-  <fig style="width: 150px"ure style="width: 150px">
-    <impng">
-    <figcaption>The Innocent Look</figcaption>
-  </figure>
-  <figure style="width: 150px">
-    <img src="/images/profile.png">
-    <figcaption>Big Eyed Buggy</figcaption>
-  </figure>
-  <figure style="width: 150px">
-    <img src="/images/profile.png">
-    <figcaption>The Saint Doggo</figcaption>
-  </figure>
-  <figure style="width: 150px">
-    <img src="/images/profile.png">
-    <figcaption>Big Eyed Buggy</figcaption>
-  </figure>
-</div>
-
+<figure style="width: 150px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
+  <figcaption>Itty-bitty caption.</figcaption>
+</figure> 
 
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
