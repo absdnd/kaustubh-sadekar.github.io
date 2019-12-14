@@ -35,7 +35,13 @@ Here I list down my research areas
 Major Projects
 --------------
 
-[SPARK - A Robotic Sketching Arm](portfolio/p1-spark-robotic-sketching-arm/)
+[SPARK - A Robotic Sketching Arm](portfolio/p1-spark-robotic-sketching-arm/) A self designed 3DOF robotic arm capable of sketching any image given as input. The robot was developed using ROS and OpenCV.
+
+[Computer vision based cashew sorting machine](portfolio/p1-cashew-sorting-machine/) Designed and fabricated a protorype conveyor belt with self designed motor controller and created an OpenCV based software capable of classifing cashews as broken and full cashews in real time with a camera installed above the conveyor belt.
+
+
+
+
 
 ### [See all projects](/portfolio.html)
 
