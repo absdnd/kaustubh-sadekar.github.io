@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - image_path: /images/profile.png
+  - image_path: images/profile.png
     title: "Placeholder 1"
-  - image_path: /images/profile.png
+  - image_path: images/profile.png
     title: "Placeholder 2"
-  - image_path: /images/profile.png
+  - image_path: images/profile.png
     title: "Placeholder 3"
 ---
 I am a Research Associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
