@@ -35,7 +35,7 @@ Here I list down my research areas
 Major Projects
 --------------
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
