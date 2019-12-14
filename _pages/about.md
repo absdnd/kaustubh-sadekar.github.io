@@ -35,25 +35,25 @@ Here I list down my research areas
 Major Projects
 --------------
 
-<div class="gallery">
-  <figure>
-    <img src="/images/profile.png" width="50" height="50">
+<div class="gallery">style="width: 150px"
+  <figure style="width: 150px">
+   ile.png">
     <figcaption>Julie's Rabbit Ears</figcaption>
   </figure>
-  <figure>
-    <img src="/images/profile.png" width="50" height="50">
+  <fig style="width: 150px"ure style="width: 150px">
+    <impng">
     <figcaption>The Innocent Look</figcaption>
   </figure>
-  <figure>
-    <img src="/images/profile.png" width="50" height="50">
+  <figure style="width: 150px">
+    <img src="/images/profile.png">
     <figcaption>Big Eyed Buggy</figcaption>
   </figure>
-  <figure>
-    <img src="/images/profile.png" width="50" height="50">
+  <figure style="width: 150px">
+    <img src="/images/profile.png">
     <figcaption>The Saint Doggo</figcaption>
   </figure>
-  <figure>
-    <img src="/images/profile.png" width="50" height="50">
+  <figure style="width: 150px">
+    <img src="/images/profile.png">
     <figcaption>Big Eyed Buggy</figcaption>
   </figure>
 </div>
