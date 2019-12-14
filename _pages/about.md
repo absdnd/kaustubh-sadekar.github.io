@@ -37,6 +37,13 @@ Major Projects
 <figure style="width: 100px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
 </figure> 
+<figure style="width: 100px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
+</figure> 
+<figure style="width: 100px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" alt="">
+</figure> 
+
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
 
