@@ -35,9 +35,16 @@ Here I list down my research areas
 Major Projects
 --------------
 
+[Autonomous Goods Management System Robot](portfolio/p4-autonomous-goods-management-system/) Developed a prototype of autonomous goods management robotic system. The proect was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Oregon.
+
+[TEEVRA Electric Car](portfolio/p5-teevra-electric-car/) As part of team Kaizen, developed a real scale prototype electric car and secured 16th rank in Asia at Shell Eco-Marathon Asia 2017 held in Singapore. I developed the code for the power electronic of  BLDC motor of the electric car.
+
 [SPARK - A Robotic Sketching Arm](portfolio/p1-spark-robotic-sketching-arm/) A self designed 3DOF robotic arm capable of sketching any image given as input. The robot was developed using ROS and OpenCV.
 
-[Computer vision based cashew sorting machine](portfolio/p1-cashew-sorting-machine/) Designed and fabricated a protorype conveyor belt with self designed motor controller and created an OpenCV based software capable of classifing cashews as broken and full cashews in real time with a camera installed above the conveyor belt.
+[Computer vision based cashew sorting machine](portfolio/p2-cashew-sorting-machine/) Self designed and fabricated machine capable of classifying and sorting full and broken cashews using ROS and OpenCV implimented on Raspberry Pi.
+
+[Computer vision based algorithm for lump detection in optic fiber cables](portfolio/p3-lump-detection-algorithm/) Designed a custom algotihm for detection of lumps in fibre optic cables for a company. The software was written using OpenCV.
+
 
 
 
