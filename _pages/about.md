@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 feature_row2:
-  - image_path: /images/profile.png
+  - image_path: ../images/profile.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
