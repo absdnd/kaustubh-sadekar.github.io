@@ -21,6 +21,9 @@ feature_row:
   - image_path: ../images/profile2.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: ../images/profile2.png
+    title: "Placeholder 4"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: ../images/profile.png
     alt: "placeholder image 2"
