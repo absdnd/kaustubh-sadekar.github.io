@@ -6,13 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-feature_row:
-  - image_path: images/profile2.png
-    title: "Placeholder 1"
-  - image_path: images/profile2.png
-    title: "Placeholder 2"
-  - image_path: images/profile2.png
-    title: "Placeholder 3"
+feature_row2:
+  - image_path: /images/profile.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 I am a Research Associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
 
@@ -41,11 +42,7 @@ Here I list down my research areas
 
 Major Projects
 --------------
-
-<img src="https://github.com/kaustubh-sadekar/AIR_Drums/blob/master/Images/play_drums.gif" width=1000>
-
-THIS IS AWESOME !!
-
+{% include feature_row id="feature_row2" type="left" %}
 
 [Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)
 Developed a prototype of autonomous goods management robotic system. The project was awarded 3rd position at IEEE-IAS Internation Students Robotics Demonstration Competetion and represented India at world finals held in Portlan,USA.
