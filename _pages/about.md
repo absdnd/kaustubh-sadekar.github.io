@@ -13,9 +13,6 @@ feature_row:
   - image_path: ../images/profile2.png
     alt: "placeholder image 2"
     excerpt: "[TEEVRA Electric Car](portfolio/p5-teevra-electric-car/)"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: ../images/profile2.png
     excerpt: "[SPARK - A Robotic Sketching Arm](portfolio/p1-spark-robotic-sketching-arm/)"
   - image_path: ../images/profile2.png
