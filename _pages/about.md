@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - image_path: ../images/profile2.png
+  - image_path: ../images/distCoeff.gif
     alt: "placeholder image 1"
     excerpt: "[Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)"
   - image_path: ../images/profile2.png
