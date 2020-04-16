@@ -10,12 +10,12 @@ feature_row:
   - image_path: ../images/spark1.gif
     alt: "placeholder image 1"
     excerpt: "[Autonomous Goods Management Robotic System](portfolio/p4-autonomous-goods-management-system/)"
-  - image_path: ../images/profile2.png
+  - image_path: ../images/spark1.gif
     alt: "placeholder image 2"
     excerpt: "[TEEVRA Electric Car](portfolio/p5-teevra-electric-car/)"
-  - image_path: ../images/profile2.png
+  - image_path: ../images/spark1.gif
     excerpt: "[SPARK - A Robotic Sketching Arm](portfolio/p1-spark-robotic-sketching-arm/)"
-  - image_path: ../images/profile2.png
+  - image_path: ../images/spark1.gif
     excerpt: "[Computer vision based cashew sorting machine](portfolio/p2-cashew-sorting-machine/)"
 ---
 I am a Research Associate at Indian Institute of Technology Bombay. It's quite facinating for me that using math and computer programing we can make a machine understand what its eyes(the cameras) are able to see(capture)!! I am currently designing a roboust computer vision pipeline which tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization and image enhancement, for a robotic system with non-linear dynamics.
