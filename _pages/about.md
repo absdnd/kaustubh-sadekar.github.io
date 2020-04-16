@@ -45,8 +45,9 @@ Here I list down my research areas
 
 Major Projects
 ==============
-
-{% include feature_row %}
+<p align="Left">
+  <img height=100 src="../images/spark1.gif">
+</p> This is the most interesting part and I am really interested in it like anything 
 
 ### [See all projects](/portfolio.html)
 
