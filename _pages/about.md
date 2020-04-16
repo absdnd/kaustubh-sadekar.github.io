@@ -45,23 +45,8 @@ Here I list down my research areas
 
 Major Projects
 ==============
-<figure style="width: 250px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/spark1.gif" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
-**Project Title**
 
-* Project description which I am just writing randommly to see the alignment of this text and image.
-* It is important to check all this Project description which I am just writing randommly to see the alignment of this text and image. 
-* It is important to check all this
-* Project description which I am just writing randommly to see the alignment of this text and image.
-* It is important to check all this Project description which I am just writing randommly to see the alignment of this text and image. 
-* It is important to check all this
-
-
-* Project description which I am just writing randommly to see the alignment of this text and image.
-It is important to check all this
-
+{% include feature_row}
 
 ### [See all projects](/portfolio.html)
 
