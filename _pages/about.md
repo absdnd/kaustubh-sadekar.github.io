@@ -46,7 +46,7 @@ Here I list down my research areas
 Major Projects
 ==============
 
-{% include feature_row }
+{% include feature_row %}
 
 ### [See all projects](/portfolio.html)
 
