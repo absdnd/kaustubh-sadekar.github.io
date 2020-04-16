@@ -50,15 +50,9 @@ Major Projects
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 **Project Title**
-
 Project description which I am just writing randommly to see the alignment of this text and image.
 It is important to check all this Project description which I am just writing randommly to see the alignment of this text and image. It is important to check all this
 
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/spark1.gif" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
-</figure> 
-**Project Title THis goes longer and we need to see how the text is wrapped up**
 
 * Project description which I am just writing randommly to see the alignment of this text and image.
 It is important to check all this
