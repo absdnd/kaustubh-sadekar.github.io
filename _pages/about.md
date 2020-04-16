@@ -50,6 +50,7 @@ Major Projects
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
 **Project Title**
+
 * Project description which I am just writing randommly to see the alignment of this text and image.
 * It is important to check all this Project description which I am just writing randommly to see the alignment of this text and image. 
 * It is important to check all this
