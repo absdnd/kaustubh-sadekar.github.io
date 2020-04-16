@@ -52,8 +52,7 @@ Major Projects
 **Project Title**
 
 Project description which I am just writing randommly to see the alignment of this text and image.
-It is important to check all this
-
+It is important to check all this Project description which I am just writing randommly to see the alignment of this text and image. It is important to check all this
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/spark1.gif" alt="">
