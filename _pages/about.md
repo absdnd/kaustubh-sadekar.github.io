@@ -13,8 +13,12 @@ feature_row:
   - image_path: ../images/SLAM.gif
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p5-teevra-electric-car/)"
-  - image_path: ../images/Viewer1.gif
-    excerpt: "[360 video streaming and viewing GUI for omnidirectional camera](portfolio/p1-spark-robotic-sketching-arm/)"
+  - image_path: ../images/viewer1.gif
+    excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p1-spark-robotic-sketching-arm/)"
+  - image_path: ../images/e2feye.gif
+    excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p2-cashew-sorting-machine/)"
+  - image_path: ../images/pgNet.gif
+    excerpt: "[Deep learning model for handwritten content binarization](portfolio/p2-cashew-sorting-machine/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p2-cashew-sorting-machine/)"
 ---
