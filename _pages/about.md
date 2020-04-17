@@ -17,10 +17,10 @@ feature_row:
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p1-spark-robotic-sketching-arm/)"
   - image_path: ../images/e2feye.gif
     excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p2-cashew-sorting-machine/)"
-  - image_path: ../images/pgNet.gif
-    excerpt: "[Deep learning model for handwritten content binarization](portfolio/p2-cashew-sorting-machine/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p2-cashew-sorting-machine/)"
+  - image_path: ../images/pixocube.gif
+    excerpt: "[Interractive 3D cube using face detection and kalman filter based tracking](portfolio/p2-cashew-sorting-machine/)"
 ---
 I am a Research Associate at the Indian Institute of Technology Bombay. I am currently designing a robust computer vision pipeline that tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization, object detection, and image enhancement, for a robotic system to be used in indoor surveillance activities. 
 
