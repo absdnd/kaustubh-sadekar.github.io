@@ -29,9 +29,17 @@ Closed loop control using vision based feedback system integrated with ROS
 * Vision based feedback node, using AruCo marker, publishes realtime robot joint pose.
 * Closed loop control node publishes the motor angles, which are subscribed by the embedded node.
 
-| Results for P controller | Results for PD controller |
-| :-----------------------: | :-----------------------: |
-| ![](/images/spark-pid1.gif) | ![](/images/2.gif) |
+<p align='center'>
+  <img src'/images/spark-pid1.gif'>
+  Results for P controller
+</p>
+
+<p align='center'>
+  <img src'/images/2.gif'>
+  Results for PD controller
+</p>
+
+
 
 
 
