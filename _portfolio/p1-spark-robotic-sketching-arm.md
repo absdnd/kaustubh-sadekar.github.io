@@ -30,12 +30,12 @@ Closed loop control using vision based feedback system integrated with ROS
 * Closed loop control node publishes the motor angles, which are subscribed by the embedded node.
 
 <p align='center'>
-  <img src'/images/spark-pid1.gif'>
+  <img src='/images/spark-pid1.gif'>
   Results for P controller
 </p>
 
 <p align='center'>
-  <img src'/images/2.gif'>
+  <img src='/images/2.gif'>
   Results for PD controller
 </p>
 
