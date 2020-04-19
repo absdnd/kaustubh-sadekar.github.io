@@ -42,3 +42,9 @@ Closed loop control using vision based feedback system integrated with ROS
 <p align='center'>
     Results for PD controller
 </p>
+
+
+Update Version 3.0
+==================
+
+OpenAI gym and ROS compatible robotic arm simulator for RL and DL based experiments.
