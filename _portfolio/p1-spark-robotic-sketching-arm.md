@@ -47,4 +47,22 @@ Closed loop control using vision based feedback system integrated with ROS
 Update Version 3.0
 ==================
 
-OpenAI gym and ROS compatible robotic arm simulator for RL and DL based experiments.
+OpenAI gym and ROS compatible robotic arm simulator for RL and DL based experiments. 
+* OpenAI Gym compatible ROS node for robotic arm simulator.
+* Shadow mode feature for simulator to mimic the movements of the actual robot in real time.
+* Draw mode feature to simulate carious drawing algorithms.
+
+<p align='center'>
+  <img src='/images/3.gif'>
+</p>
+<p align='center'>
+  Shadow mode feature of the simulator
+</p>
+
+<p align='center'>
+  <img src='/images/spark1.gif'>
+</p>
+<p align='center'>
+  Draw mode feature showing contour based drawing algorithm
+</p>
+
