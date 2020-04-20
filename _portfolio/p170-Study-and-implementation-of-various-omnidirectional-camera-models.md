@@ -1,6 +1,6 @@
 ---
 title: "Study-and-implementation-of-various-omnidirectional-camera-models"
-excerpt: "Developed virtual camera classes for various omnidirectional camera models<br/><img src='/images/viewer2.gif'>"
+excerpt: "Developed virtual camera classes for various omnidirectional camera models<br/><img src='/images/e2feye.gif'>"
 collection: portfolio
 ---
 
@@ -25,7 +25,7 @@ a unit sphere and sample the pixel values from a given 360&deg; image (in equire
 </p>
 
 <p align='center'>
-  <img src='/images//images/e2feye.gif'>
+  <img src='/images/e2feye.gif'>
 </p>
 <p align='center'>
   GUI for unified camera model
