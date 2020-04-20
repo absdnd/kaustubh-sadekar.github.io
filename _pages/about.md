@@ -9,7 +9,7 @@ redirect_from:
 feature_row:
   - image_path: ../images/1.gif
     alt: "placeholder image 1"
-    excerpt: "[SPARK-Robotic sketching arm](portfolio/p1-spark-robotic-sketching-arm/)"
+    excerpt: "[SPARK-Robotic sketching arm](portfolio/p100-spark-robotic-sketching-arm/)"
   - image_path: ../images/SLAM.gif
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p5-teevra-electric-car/)"
