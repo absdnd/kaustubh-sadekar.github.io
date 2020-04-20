@@ -57,7 +57,7 @@ The last step in the process of rendering is performed to ensure that opaque nat
 **Rendering images on the cube**
 
 
-| **Face tracking disabled** | **Face tracking enabled** |
+| **Rendered cube sample 1** | **Rendered cube sample 2** |
 | :------------------------: | :-----------------------: |
 |![](/images/min1.png) | ![](/images/min2.png) |
 
