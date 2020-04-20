@@ -1,6 +1,6 @@
 ---
 title: "Invisibility cloak using OpenCV"
-excerpt: "Used color based segmentation to create a fun application of invisibility cloak<br/><img src='/images/pixocube.gif'>"
+excerpt: "Used color based segmentation to create a fun application of invisibility cloak<br/><img src='/images/InvCloak.gif'>"
 collection: portfolio
 ---
 
