@@ -4,6 +4,9 @@ excerpt: "Developed virtual camera classes for various omnidirectional camera mo
 collection: portfolio
 ---
 
+Project in brief
+================
+
 As one of my key area of interest is related to perception algorithms related to omnidirectional camera models, I studied the following camera models and 
 created a GUI for each model which helps the user to play with various intrinsic and extrinsic camera parameters.
 * Pinhole Camera Model
