@@ -1,6 +1,6 @@
 ---
 title: "SPARK a robotic sketching arm"
-excerpt: "A 3DOF robotic arm capable of sketching images using ROS and OpenCV <br/><img src='/images/1.gif'>"
+excerpt: "A 3DOF robotic arm capable of sketching images using ROS and OpenCV <br/><img src='/images/2.gif'>"
 collection: portfolio
 ---
 
