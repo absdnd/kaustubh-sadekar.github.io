@@ -12,7 +12,7 @@ feature_row:
     excerpt: "[SPARK-Robotic sketching arm](portfolio/p100-spark-robotic-sketching-arm/)"
   - image_path: ../images/SLAM.gif
     alt: "placeholder image 2"
-    excerpt: "[Analysis of Visual SLAM methods](portfolio/p5-teevra-electric-car/)"
+    excerpt: "[Analysis of Visual SLAM methods](portfolio/p150-Analysis-of-Visual-SLAM-methods/)"
   - image_path: ../images/viewer1.gif
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p1-spark-robotic-sketching-arm/)"
   - image_path: ../images/e2feye.gif
