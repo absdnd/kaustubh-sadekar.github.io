@@ -21,18 +21,18 @@ various parts of this project.
 
 | **Projected points of 3D cube in virtual camera** | **Rendered faces using the projected points** |
 | :--------------------------------------------: | :----------------------------------------: |
-|![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/proj1.gif) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/proj2.gif) |
+|![](/images/proj1.gif) | ![](/images/proj2.gif) |
 
 
 **Rendering images on the cube**
 
-|![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min1.png) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min2.png)|
-| :------------------------------------------------------------------: | :----------------------------------: |
+|![](/images/min1.png) | ![](/images/min2.png)|
+| :--------------: | :----------------------: |
 
 
 | **Face tracking disabled** | **Face tracking enabled** |
-| :--------------------------------------------: | :----------------------------------------: |
-|![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/gif1.gif) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/gif3.gif) |
+| :------------------------: | :-----------------------: |
+|![](/images/gif1.gif) | ![](/images/gif3.gif) |
 
 
 
