@@ -1,6 +1,6 @@
 ---
 title: "Real-time vision software for lump detection in fiber optic cables"
-excerpt: "Developed virtual camera classes for various omnidirectional camera models<br/><img src='/images/lump-detection.gif'>"
+excerpt: "Developed a vision based real-time software using OpenCV to detect lumps in fiberoptic cables<br/><img src='/images/lump-detection.gif'>"
 collection: portfolio
 ---
 
