@@ -16,8 +16,9 @@ various parts of this project.
 * Developing a virtual camera using a **self defined virtual camera class.**
 * Calculating pixel coordinates of vertices of a **3D cube when projected into the virtual camera**.
 * Using the projected pixel coordinates and perspective transform, **rendering sides of the cube** with different images.
-* Using dlib based face detection method and controling camera position coordinates as the user moves her/his face, giving the 3D effect.
-* Created a python wrapper for the C++ based code.
+* Using **dlib based face detection** method and controling camera position coordinates as the user moves her/his face, giving the 3D effect.
+* Applying **Kalman Filter for tracking** the face.
+* Created a **python wrapper for the C++** based code.
 
 Creating a 3D cube
 ==================
@@ -25,7 +26,11 @@ A cube is initialised with centre at origin and side = 1meter. I created two maj
 
 Creating the virtual camera
 ===========================
-To define a virtual camera we define a set of matrices which represent different properties of a camera. We use the following matrices to represent different properties of the virtual camera : • Translation matrix (T) : To represent the translation of camera in real world. • Rotation matrix (R) : To represent the rotations of camera about x, y and z axis. • Camera matrix (K) : To represent the properties of virtual camera like, focal length (f), apparent pixel size (sx), apparent centre of the image in pixel coordinates. Using the above matrices we define the camera projection matrix (P).
+To define a virtual camera we define a set of matrices which represent different properties of a camera. We use the following matrices to represent different properties of the virtual camera : 
+* Translation matrix (T) : To represent the translation of camera in real world.
+* Rotation matrix (R) : To represent the rotations of camera about x, y and z axis.
+* Camera matrix (K) : To represent the properties of virtual camera like, focal length (f), apparent pixel size (sx), apparent centre of the image in pixel coordinates. 
+* Using the above matrices we define the camera projection matrix (P).
 
 Deriving projection of 3D cube vertices in the virtual camera
 =============================================================
