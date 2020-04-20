@@ -56,8 +56,8 @@ The last step in the process of rendering is performed to ensure that opaque nat
 
 **Rendering images on the cube**
 
+| :--------------: | :---------------: |
 |![](/images/min1.png) | ![](/images/min2.png)|
-| :--------------: | :----------------------: |
 
 
 Face tracking for controlling the camera view point
