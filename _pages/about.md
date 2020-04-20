@@ -14,7 +14,7 @@ feature_row:
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p150-Analysis-of-Visual-SLAM-methods/)"
   - image_path: ../images/viewer1.gif
-    excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p1-spark-robotic-sketching-arm/)"
+    excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
     excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p2-cashew-sorting-machine/)"
   - image_path: ../images/lump-detection.gif
