@@ -23,13 +23,16 @@ various parts of this project.
 | :--------------------------------------------: | :----------------------------------------: |
 |![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/proj1.gif) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/proj2.gif) |
 
-<p align='center'>
-  **Rendering images on the cube**
-</p>
+
+**Rendering images on the cube**
 
 |![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min1.png) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min2.png)|
 | :------------------------------------------------------------------: | :----------------------------------: |
 
+
+| **Face tracking disabled** | **Face tracking enabled** |
+| :--------------------------------------------: | :----------------------------------------: |
+|![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/gif1.gif) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/gif3.gif) |
 
 
 
