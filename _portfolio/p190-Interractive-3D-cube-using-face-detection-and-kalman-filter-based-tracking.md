@@ -26,6 +26,7 @@ various parts of this project.
 <p align='center'>
   **Rendering images on the cube**
 </p>
+
 |![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min1.png) | ![](https://github.com/kaustubh-sadekar/PixoCube/blob/master/min2.png)|
 | :------------------------------------------------------------------: | :----------------------------------: |
 
