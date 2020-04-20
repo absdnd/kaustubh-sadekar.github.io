@@ -16,7 +16,7 @@ feature_row:
   - image_path: ../images/viewer1.gif
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
-    excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p2-cashew-sorting-machine/)"
+    excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p170-Study-and-implementation-of-various-omnidirectional-camera-models/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p2-cashew-sorting-machine/)"
   - image_path: ../images/pixocube.gif
