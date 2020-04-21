@@ -32,7 +32,7 @@ Experience
 - **Computer Vision Intern** Technosamarthyam *(December 2017- June -2018)*
 - **Robotics and Automation Intern** Ford India pvt.ltd *(june 2017 - August 2017)*
 
-[Click here](/cv.md) to read more details about my experience
+**[Click here](/cv.md)** to read more details about my experience
 
 Research Interests
 ==================
