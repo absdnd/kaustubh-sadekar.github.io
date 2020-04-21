@@ -19,14 +19,14 @@ developing a working prototype of the entire machine. Some key features of the p
   Size based sorting of cashews
 </p>
 
-<p  align='center'>
-  <img src='/images/Cashew2.gif>
+<p align='center'>
+  <img src="/images/Cashew2.gif">
 </p>
 
 <p  align='center'>
   Shape based sorting of cashews
 </p>
 
-<p  align='center'>
-  <img src='/images/Cashew3.gif>
+<p align='center'>
+  <img src="/images/Cashew3.gif">
 </p>
