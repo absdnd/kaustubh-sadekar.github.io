@@ -8,15 +8,5 @@ tags:
   - Color Spaces
 ---
 
-This post was written to appreciate the best of all people
-
-Heading hoes here
-======
-
-Second heading goes here
-======
-
-That's cool right
-------
-
-Oh! I am simply writing anything bro so chill !!
+This post was published on LearnOpenCV.com, a famous website for computer vision. 
+Link to the blog is [here](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)
