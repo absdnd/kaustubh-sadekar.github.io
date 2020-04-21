@@ -1,6 +1,6 @@
 ---
 title: "Fun mirrors using OpenCV"
-excerpt: "Used color based segmentation to create a fun application of air drums<br/><img src='/images/FunMirrors2.gif'>"
+excerpt: "Created a virtual camera model and used mesh based warping to generate sum fun effects<br/><img src='/images/FunMirrors2.gif'>"
 collection: portfolio
 ---
 
