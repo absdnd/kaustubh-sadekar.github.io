@@ -52,10 +52,12 @@ Major Projects
 
 {% include feature_row %}
 
-### [See all projects](/portfolio.html)
+**[See all projects](/portfolio.html)**
 
 My Philosophy
 =============
-Here comes my philosophy.
 
+The very idea that using math and some code we can give a sense of vision to a machine, makes me super excited about the field of computer vision. It feels great to see how recent advances in this field are augmenting the way we live. I have always wondered of making a robot that can help my mother do all the household chores so she can relax and spend more times for herself. There are so many challenges that we need to solve to create a multi dextrous robot like this one. I feel that vision algorithms are going to play a huge role in such projects. I am interested in learning about topics like few shot learning, reinforcement learning, GANs, object detection, human pose estimation and SLAM as they will always be useful in developing robust vision systems for any machine or robot. 
+
+I attend online lectures from sources like NPTEL, MIT OCW etc to clear my fundamentals about topics related to computer vision. I enjoy using these fundamental concepts to create some fun projects like [invisibility cloak](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/) or [FunMirrors](/_portfolio/p750-funny-mirrors.md). I also write blogs on different topics related to computer vision and also [take workshops](/talks/) to motivate students to learn more about this field.
 
