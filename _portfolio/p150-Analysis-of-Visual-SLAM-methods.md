@@ -4,9 +4,6 @@ excerpt: "Study and analysis of LSD-SLAM, CUBEMAP SLAM and ORB-SLAM for omnidire
 collection: portfolio
 ---
 
-This is a small portion of my work as a research associate at IIT Bombay. Due to institution policy, I am unable to share more details and 
-results as I am supposed to keep it confidential. 
-
 Project in brief
 ================
 
