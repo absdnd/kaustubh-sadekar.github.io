@@ -17,6 +17,12 @@ feature_row:
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
     excerpt: "[Study and implementation of various omnidirectional camera models](portfolio/p170-Study-and-implementation-of-various-omnidirectional-camera-models/)"
+  - image_path: ../images/pgNet.gif
+    excerpt: "[Hand-written content binarization using Deep CNN](portfolio/p174-Hand-written-content-binarization-using-Deep-CNN/)"
+  - image_path: ../images/FallDetection2.gif
+    excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
+  - image_path: ../images/CashewGAN.gif
+    excerpt: "[Cashew GAN](portfolio/p176-Cashew-GAN/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
   - image_path: ../images/pixocube.gif
