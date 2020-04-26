@@ -4,8 +4,6 @@ excerpt: "Created vision software for streaming and viewing 360 videos in real-t
 collection: portfolio
 ---
 
-This is a basic portion of my work that I have been doing as a research associate at IIT Bombay. Due to institution policy, I am unable to share more details and results as I am supposed to keep it confidential.
-
 Project in brief
 ================
 
