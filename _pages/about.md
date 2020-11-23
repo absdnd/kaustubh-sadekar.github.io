@@ -30,7 +30,8 @@ feature_row:
 ---
 I am a Research Associate at the Indian Institute of Technology Bombay. I am currently designing a robust computer vision pipeline that tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization, object detection, and image enhancement, for a robotic system to be used in indoor surveillance activities. 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkaustubh-sadekar.github.io%2F)
+![profile hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkaustubh-sadekar.github.io%2F&label=Homepage+Views)
+![](https://komarev.com/ghpvc/?username=kaustubh-sadekar&color=green&style=plastic&label=GitHub+Profile+Views)
 
 Experience
 ==========
