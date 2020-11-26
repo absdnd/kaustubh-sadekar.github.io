@@ -1,6 +1,6 @@
 ---
 title: "Low-Cost Custom Stereo Camera From USB Webcams"
-excerpt: "Using two USB webcams a low cost stereo camera can be developed for depth perception<br/><img src='/images/pgNet.gif'>"
+excerpt: "Using two USB webcams a low cost stereo camera can be developed for depth perception<br/><img src='/images/stereo3D.gif'>"
 collection: portfolio
 ---
 
