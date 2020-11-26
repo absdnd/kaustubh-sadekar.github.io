@@ -17,6 +17,8 @@ feature_row:
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
     excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](https://kaustubh-sadekar.github.io/OmniCV-Lib/index.html#)"
+  - image_path: ../images/stereoLogo.gif
+    excerpt: "[Fun mirrors using OpenCV](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
   - image_path: ../images/CashewGAN.gif
@@ -25,8 +27,6 @@ feature_row:
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
   - image_path: ../images/pixocube.gif
     excerpt: "[Interractive 3D cube using face detection and kalman filter based tracking using OpenCV for rendering and No OpenGL](portfolio/p190-Interractive-3D-cube-using-face-detection-and-kalman-filter-based-tracking/)"
-  - image_path: ../images/FunMirrors.gif
-    excerpt: "[Fun mirrors using OpenCV](portfolio/p750-funny-mirrors/)"
 ---
 I am a Research Associate at the Indian Institute of Technology Bombay. I am currently designing a robust computer vision pipeline that tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization, object detection, and image enhancement, for a robotic system to be used in indoor surveillance activities. 
 
