@@ -7,16 +7,14 @@ collection: portfolio
 Project in brief
 ================
 
-Stereo cameras are a common soulution for depth perception. Most of the industrial grade stereo cameras come with well written APIs and SDKs to make it easy for
- the developers to get the depth data from the camera with just a few lines of code. However, these cameras are quite expensive compared to the normal USB cameras.
+Stereo cameras are a standard solution for depth perception. Most of the industrial-grade stereo cameras come with well written APIs and SDKs to make it easy for the developers to get the depth data from the camera with just a few code lines. However, these cameras are quite expensive compared to the regular USB cameras.
 
-I learnt the fundamental concepts of stereo vision from CS 763 - Computer Vision at IIT Bombay (sit through - without credits). This motivated me to develop my own 
-low cost stereo camera from two USB cameras and write my own software to get the depth information from the setup. The software is written in Python as well as C++. 
+I learned the fundamental concepts of stereo vision from CS 763 - Computer Vision at IIT Bombay (sit through - without credits). This motivated me to develop my low-cost stereo camera from two USB cameras and write my software to get the setup's depth information. The software is written in Python as well as C++. 
 
 Design and Fabrication
 ----------------------
 
-A 3D printed box was used to ensure that the cameras do not move and to give it a nice look! My childhood friend and neighbour [**Mandar Kadwekar**]() designed the
+A 3D printed box was used to ensure that the cameras do not move and give it a nice look! My childhood friend and neighbor [**Mandar Kadwekar**]() designed the
  3d box.
 
 <p align="center">
@@ -29,8 +27,8 @@ A 3D printed box was used to ensure that the cameras do not move and to give it 
 Stereo Calibration
 ------------------
 
-I created a **custom stereo calibration grid using ArUco markers**. It is easier to detect compared to checkerboard pattern. The marker corner detection is done using 
-aruco class in OpenCV.
+I created a **custom stereo calibration grid using ArUco markers**. It is easier to detect compared to the checkerboard pattern. The marker corner detection is done using 
+ArUco class in OpenCV.
 
 <p align="center">
   <img src='/images/calibration.gif'>
@@ -43,8 +41,8 @@ aruco class in OpenCV.
 Depth Estimation and 2.5 D Projection
 -------------------------------------
 
-Using the depth map and the calibrated camera parameters, depth for each pixel is estimated and a 3D point cloud is generated. This is usually called 2.5 D projection.
-StereoSGBM method is used to estimate the disparity map and WLS filter is used to refine the disparity map. The disparity map information and camera intrinsic parameters 
+Using the depth map and the calibrated camera parameters, each pixel's depth is estimated, and a 3D point cloud is generated. This is usually called a 2.5 D projection.
+StereoSGBM method is used to estimate the disparity map, and the WLS filter is used to refine the disparity map. The disparity map information and intrinsic camera parameters 
 are used to get the 2.5 D representation.
 
 The point cloud generated in the above process is displayed using Open3D.
