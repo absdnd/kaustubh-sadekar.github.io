@@ -83,4 +83,3 @@ Future Work
 * Understanding different handwriting styles and developing a conditional GAN that can generate an image containing the content written in target handwriting style.
 * Developing a model to enable Spark to learn how to use a calligraphy pen.
 
-
