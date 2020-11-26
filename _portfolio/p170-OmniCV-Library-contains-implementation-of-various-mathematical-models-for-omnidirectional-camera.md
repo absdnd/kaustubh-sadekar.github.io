@@ -36,3 +36,23 @@ The idea here was to use the inverse projection function (Unprojection function)
 <p align='center'>
   GUI for unified camera model
 </p>
+
+
+360° video streaming and viewing GUI for omnidirectional camera
+===============================================================
+
+This application is created using the functions provided in the OmniCV library. It is a 360&deg; video player.
+Some key points of the application are mentioned below :
+
+* Real-time streaming using an omnidirectional camera.
+* Flask server to transform the frame from the stream and provide 360° pan view.
+* App interface to view the 360° video with GUI that enables the user to pan the view.
+* Software supports horizontal as well as vertical orientation of the streaming camera.
+
+<p align='center'>
+  <img src='/images/viewer1.gif'>
+</p>
+<p align='center'>
+  Example of 360&deg; viewing GUI
+</p>
+
