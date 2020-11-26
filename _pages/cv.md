@@ -53,8 +53,13 @@ Skills
 
 Achievements and awards
 ======
-* [**OpenCI Spatial-AI Phase-1 Winners**](https://opencv.org/announcing-the-opencv-spatial-ai-competition-sponsored-by-intel-phase-1-winners/) Selected in top 32 teams out of 235 teams all over the world. Developed [Cyclops - A Spatial AI based Assistant For Visually Impaired People](https://github.com/kaustubh-sadekar/Cyclops-Visual-Assistant)
-* [**IEEE - IAS International Students Robotics Demonstration Competetion**](https://ias.ieee.org/images/files/CMD/2017/2017-01_IAS_CMD_Robotics_Demonstration_Contest___2016_Winners.pdf) Third position among teams from all over the world.
-* [**Shell Eco Marathon Asia 2017 - Battery Electric Prototype car category**](http://www.teamkaizenindia.com/team.php) Secured 16th position in Asia and 2nd in India. Achieved an efficiency of 81 km/kWh.
-* **Visharadh (B.A. in Indian Classical music -  Harmonium)** Completed vishradh at the age of 16 years.
-* **Best Boy Award (Junior Category)** Best Boy Award at New Era Senior Secondary School in 10th grade.
+* [**OpenCI Spatial-AI Phase-1 Winners**](https://opencv.org/announcing-the-opencv-spatial-ai-competition-sponsored-by-intel-phase-1-winners/) 
+Selected in top 32 teams out of 235 teams all over the world. Developed [Cyclops - A Spatial AI based Assistant For Visually Impaired People](https://github.com/kaustubh-sadekar/Cyclops-Visual-Assistant)
+* [**IEEE - IAS International Students Robotics Demonstration Competetion**](https://ias.ieee.org/images/files/CMD/2017/2017-01_IAS_CMD_Robotics_Demonstration_Contest___2016_Winners.pdf) 
+Third position among teams from all over the world.
+* [**Shell Eco Marathon Asia 2017 - Battery Electric Prototype car category**](http://www.teamkaizenindia.com/team.php) 
+Secured 16th position in Asia and 2nd in India. Achieved an efficiency of 81 km/kWh.
+* **Visharadh (B.A. in Indian Classical music -  Harmonium)** 
+Completed vishradh at the age of 16 years.
+* **Best Boy Award (Junior Category)** 
+Best Boy Award at New Era Senior Secondary School in 10th grade.
