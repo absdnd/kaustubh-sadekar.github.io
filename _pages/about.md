@@ -16,7 +16,7 @@ feature_row:
   - image_path: ../images/viewer1.gif
     excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
-    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera/)"
+    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](https://kaustubh-sadekar.github.io/OmniCV-Lib/index.html#)"
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
   - image_path: ../images/CashewGAN.gif
