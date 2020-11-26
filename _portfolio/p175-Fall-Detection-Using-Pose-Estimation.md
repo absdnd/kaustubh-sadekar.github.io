@@ -7,9 +7,8 @@ collection: portfolio
 Project in brief
 ================
 
-The aim of the project is to detect any scenario where a person is falling down on floor. There are so many scenarios were this can be 
-very useful. In this research project we plan to create a robust and real time fall detection algorithm. Our first set of experiments
-is focused on testing pretrained models for pose estimtion for fall scenarios. Some of the key points of the projects are as follows:
+The project aims to detect any scenario where a person is falling on the floor. There are so many scenarios where this can be very useful. In this research project, we plan to create a robust and real-time fall detection algorithm. Our first set of experiments
+is focused on testing pre-trained models for pose estimation for fall scenarios. Some of the key points of the projects are as follows:
 
 * Literature survey for selecting a model for pose estimation.
 * Testing the [Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose](https://arxiv.org/pdf/1811.12004.pdf) on the following datasets
@@ -18,7 +17,7 @@ is focused on testing pretrained models for pose estimtion for fall scenarios. S
   * [Fall detection Dataset](http://www.falldataset.com/)
 * Testing [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-Some of the results are shown below
+Some of the results are shown below.
 
 <p align="center">
   <img src='/images/FallDetection.gif'>
