@@ -17,7 +17,7 @@ As part of my research related to perception algorithms for omnidirectional came
 * Field-of-View Camera Model
 * Double Sphere Camera Model
 
-Combining these implementations with functions for interconversion of different representations of 360 degree images, like cubmap, equirectangular, fisheye, and perspective view, I created a library called **OmniCV**.
+Combining these implementations with functions for interconversion of different representations of 360-degree images, like cubmap, equirectangular, fisheye, and perspective view, I created a library called **OmniCV**.
 
 [**Documentation of OmniCV Library is available here**](https://kaustubh-sadekar.github.io/OmniCV-Lib/index.html)
 
@@ -46,8 +46,8 @@ Some key points of the application are mentioned below :
 
 * Real-time streaming using an omnidirectional camera.
 * Flask server to transform the frame from the stream and provide 360° pan view.
-* App interface to view the 360° video with GUI that enables the user to pan the view.
-* Software supports horizontal as well as vertical orientation of the streaming camera.
+* App interface to view the 360° video with a GUI that enables the user to pan the view.
+* Software supports horizontal as well as the vertical orientation of the streaming camera.
 
 <p align='center'>
   <img src='/images/viewer1.gif'>
