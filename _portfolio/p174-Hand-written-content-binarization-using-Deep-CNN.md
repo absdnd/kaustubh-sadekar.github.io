@@ -31,4 +31,5 @@ It is interesting to observe how the model can perform well even for very crumpl
 * [Link 4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F369084131942387580%2F&psig=AOvVaw2t2P89Fw2sKnr1nNze_QKp&ust=1606507404351000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCH44GGoe0CFQAAAAAdAAAAABAD)
 
 **References**
+
 A. K. Bhunia, A. K. Bhunia, A. Sain and P. P. Roy, "Improving Document Binarization Via Adversarial Noise-Texture Augmentation," 2019 IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan, 2019, pp. 2721-2725, doi: 10.1109/ICIP.2019.8803348.
