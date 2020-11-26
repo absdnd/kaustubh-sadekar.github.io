@@ -7,7 +7,7 @@ collection: portfolio
 Project in brief
 ================
 
-The main problem statement was to develop a SLAM algorithm for a manually operated robot. The robot dynamics posed a huge challenge for the existing SLAM algorithms to perform well without any modifications. Moreover, an omnidirectional camera was used in the robot.
+The main problem statement was to develop a SLAM algorithm for a manually operated robot. The robot dynamics posed a massive challenge for the existing SLAM algorithms to perform well without any modifications. Moreover, an omnidirectional camera was used in the robot.
 The following are some key points of what we did as an attempt to solve the problem statement.
 
 * Studied and tested LSD SLAM algorithm for Narrow FOV cameras and Omnidirectional Cameras after using undistortion.
