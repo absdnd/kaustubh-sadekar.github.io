@@ -13,28 +13,29 @@ feature_row:
   - image_path: ../images/SLAM.gif
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p150-Analysis-of-Visual-SLAM-methods/)"
-  - image_path: ../images/viewer1.gif
-    excerpt: "[360&deg; video streaming and viewing GUI for omnidirectional camera](portfolio/p160-360-video-streaming-and-viewing-GUI-for-omnidirectional-cameras/)"
   - image_path: ../images/e2feye.gif
-    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](https://kaustubh-sadekar.github.io/OmniCV-Lib/index.html#)"
+    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera.md)"
   - image_path: ../images/stereoLogo.gif
     excerpt: "[Low-Cost Custom Stereo Camera From USB Webcams](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
-  - image_path: ../images/CashewGAN.gif
+  - image_path: ../images/FallDetection2.gif
+    excerpt: "[Handwritten content binarization using Deep CNN](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
+  - image_path: ../images/pgNet.gif
     excerpt: "[Cashew GAN](portfolio/p176-Cashew-GAN/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
   - image_path: ../images/pixocube.gif
     excerpt: "[Interractive 3D cube using face detection and kalman filter based tracking using OpenCV for rendering and No OpenGL](portfolio/p190-Interractive-3D-cube-using-face-detection-and-kalman-filter-based-tracking/)"
 ---
-I am a Research Associate at the Indian Institute of Technology Bombay. I am currently designing a robust computer vision pipeline that tightly couples concepts of SLAM (Simultaneous Localisation And Mapping), video stabilization, object detection, and image enhancement, for a robotic system to be used in indoor surveillance activities. 
+I am a Junior Research Fellow at the Indian Institute of Technology Gandhinagar, working under the valuable guidance of [Prof. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/index.html). My current research is focused on Geometric Deep Learning methods to solve the following problems - improving the quality of incomplete 3D structured light scans, surface analysis and restoration of broken 3D objects, and learning texture for 3D shapes using multiview RGB images. I got curious and interest in Geometric Deep Learning while working on Monocular Visual SLAM methods for Omnidirectional Cameras at the Autonomous Robots and Multi-robot Systems [(ARMS) Lab of the Indian Institute of Technology Bombay](https://www.sc.iitb.ac.in/robotics/index.html), as a Research Associate under the valuable guidance of [Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/) and [Prof. Abhishek Gupta](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Abhishek%20Gupta).
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkaustubh-sadekar.github.io&count_bg=%233F8AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Experience
 ==========
-- **Research Associate** Indian Institute of Technology Bombay *(May 2019 - Ongoing)* 
+- **Junior Research Fellow** Indian Institute of Technology Gandhinagar *(August 2020 - Ongoing)*
+- **Research Associate** Indian Institute of Technology Bombay *(May 2019 - August 2020)* 
 - **Computer Vision Software Developer** GeekyBee AI pvt.ltd *(July 2018 - May 2019)*
 - **Computer Vision Intern** Technosamarthyam *(December 2017- June -2018)*
 - **Robotics and Automation Intern** Ford India pvt.ltd *(june 2017 - August 2017)*
@@ -43,15 +44,21 @@ Experience
 
 Research Interests
 ==================
-- Omnidirectional camera models and perception algorithms.
-- Vison based feedback and tracking systems for robots.
-- Visual SLAM methods 
-- Deep Learning - Object detection, segmentation, activity recognition, pose estimation, GANs.
-- Few-shot learning 
-- Reinforcement Learning
-- Machine Learning
-- Multi-view geometry and 3D reconstruction
-- Video stabilization 
+The key objective that drives my research interests is to design a robust robotic perception system. A system that allows robots to understand the surrounding environment semantically (what is it that they are looking at), and geometrically (how far is it from them) so they can interract and explore the 3D world just like humans. I am optimistic about the future when the robots will coexist with humans and augment their lives in different aspects :smiley:
+
+Some of the topics I am interested in are as follows:
+
+- Geometric Deep Learning.
+- 3D shape and texture reconstruction from a sparse set of images.
+- Implicit representation of 3D data.
+- Object detection and 6D pose estimation in RGB and RGB-D images.
+- Graph Representation Learning.
+- Differentiable Rendering.
+- Depth estimation and Visual SLAM methods using normal and omnidirectional cameras.
+- Self-Supervised Learning.
+- Human pose estimation.
+- Video stabilization.
+- 360&deg; video and image processing.
 
 
 Major Projects
@@ -59,12 +66,16 @@ Major Projects
 
 {% include feature_row %}
 
-**[See all projects](/portfolio.html)**
+### [See all projects](/portfolio.html)
 
-My Philosophy
-=============
 
-The very idea that using math and some code we can give a sense of vision to a machine, makes me super excited about the field of computer vision. It feels great to see how recent advances in this field are augmenting the way we live. I have always wondered of making a robot that can help my mother do all the household chores so she can relax and spend more times for herself. There are so many challenges that we need to solve to create a multi dextrous robot like this one. I feel that vision algorithms are going to play a huge role in such projects. I am interested in learning about topics like few shot learning, reinforcement learning, GANs, object detection, human pose estimation and SLAM as they will always be useful in developing robust vision systems for any machine or robot. 
+Know More About Me
+==================
 
-I attend online lectures from sources like NPTEL, MIT OCW etc to clear my fundamentals about topics related to computer vision. I enjoy using these fundamental concepts to create some fun projects like [invisibility cloak](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/) or [FunMirrors](/portfolio/p750-funny-mirrors.md). I also write blogs on different topics related to computer vision and also [take workshops](/talks/) to motivate students to learn more about this field.
+**I love learning**
 
+I love learning and understanding new concepts and topics by attending online lectures from NPTEL, MIT OCW, etc. I try to improve my understanding of these topics in two ways, first is by using these concepts to create some fun projects like [invisibility cloak](https://github.com/kaustubh-sadekar/Invisibility_Cloak) or [FunMirrors](https://github.com/kaustubh-sadekar/FunMirrors). Second is by explaining these concepts to others by [writing blogs](https://www.learnopencv.com/author/kaustubh-sadekar/) and [taking workshops](/talks/).
+
+**The musical side of me**
+
+The first keyboard I used in my life was not the one we use for typing :grin: It was a musical keyboard (Casio-SA model). I started learning classical music at the age of 9 and completed visharadh in harmonium instrument at 16. I enjoy dabbling around with different musical instruments. There are a few videos I have uploaded on [my music channel](https://www.youtube.com/channel/UCnjN-kM-KjY7K7gJyOsZi7g/videos). Recently I have just started learning Guitar.
