@@ -20,7 +20,7 @@ feature_row:
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
   - image_path: ../images/pgNet.gif
-    excerpt: "[Handwritten content binarization using Deep CNN](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
+    excerpt: "[Handwritten content binarization using Deep CNN](portfolio/p174-Hand-written-content-binarization-using-Deep-CNN/)"
   - image_path: ../images/CashewGAN.gif
     excerpt: "[Cashew GAN](portfolio/p176-Cashew-GAN/)"
   - image_path: ../images/lump-detection.gif
