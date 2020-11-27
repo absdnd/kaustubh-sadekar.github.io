@@ -19,9 +19,9 @@ feature_row:
     excerpt: "[Low-Cost Custom Stereo Camera From USB Webcams](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
-  - image_path: ../images/FallDetection2.gif
-    excerpt: "[Handwritten content binarization using Deep CNN](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
   - image_path: ../images/pgNet.gif
+    excerpt: "[Handwritten content binarization using Deep CNN](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
+  - image_path: ../images/CashewGAN.gif
     excerpt: "[Cashew GAN](portfolio/p176-Cashew-GAN/)"
   - image_path: ../images/lump-detection.gif
     excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
