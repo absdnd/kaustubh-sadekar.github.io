@@ -18,7 +18,7 @@ feature_row:
   - image_path: ../images/e2feye.gif
     excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](https://kaustubh-sadekar.github.io/OmniCV-Lib/index.html#)"
   - image_path: ../images/stereoLogo.gif
-    excerpt: "[Fun mirrors using OpenCV](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
+    excerpt: "[Low-Cost Custom Stereo Camera From USB Webcams](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
     excerpt: "[Fall detection using pose estimation](portfolio/p175-Fall-Detection-Using-Pose-Estimation/)"
   - image_path: ../images/CashewGAN.gif
