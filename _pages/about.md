@@ -44,7 +44,7 @@ Experience
 
 Research Interests
 ==================
-The key objective that drives my research interests is to design a robust robotic perception system. A system that allows robots to understand the surrounding environment semantically (what is it that they are looking at), and geometrically (how far is it from them) so they can interract and explore the 3D world just like humans. I am optimistic about the future when the robots will coexist with humans and augment their lives in different aspects :smiley:
+The key objective that drives my research interests is to design a robust robotic perception system. A system that allows robots to understand the surrounding environment semantically (what is it that they are looking at), and geometrically (how far is it from them) so they can interract and explore the 3D world just like humans. I am optimistic about the future when the robots will coexist with humans and augment their lives in different aspects.
 
 Some of the topics I am interested in are as follows:
 
@@ -78,4 +78,4 @@ I love learning and understanding new concepts and topics by attending online le
 
 **The musical side of me**
 
-The first keyboard I used in my life was not the one we use for typing :grin: It was a musical keyboard (Casio-SA model). I started learning classical music at the age of 9 and completed visharadh in harmonium instrument at 16. I enjoy dabbling around with different musical instruments. There are a few videos I have uploaded on [my music channel](https://www.youtube.com/channel/UCnjN-kM-KjY7K7gJyOsZi7g/videos). Recently I have just started learning Guitar.
+The first keyboard I used in my life was not the one we use for typing. It was a musical keyboard (Casio-SA model). I started learning classical music at the age of 9 and completed visharadh in harmonium instrument at 16. I enjoy dabbling around with different musical instruments. There are a few videos I have uploaded on [my music channel](https://www.youtube.com/channel/UCnjN-kM-KjY7K7gJyOsZi7g/videos). Recently I have just started learning Guitar.
