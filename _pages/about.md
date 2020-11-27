@@ -34,11 +34,11 @@ I am a Junior Research Fellow at the Indian Institute of Technology Gandhinagar,
 
 Experience
 ==========
-- **Junior Research Fellow** Indian Institute of Technology Gandhinagar *(August 2020 - Ongoing)*
-- **Research Associate** Indian Institute of Technology Bombay *(May 2019 - August 2020)* 
+- **Junior Research Fellow** Indian Institute of Technology Gandhinagar *(Aug 2020 - Ongoing)*
+- **Research Associate** Indian Institute of Technology Bombay *(May 2019 - Aug 2020)* 
 - **Computer Vision Software Developer** GeekyBee AI pvt.ltd *(July 2018 - May 2019)*
-- **Computer Vision Intern** Technosamarthyam *(December 2017- June -2018)*
-- **Robotics and Automation Intern** Ford India pvt.ltd *(june 2017 - August 2017)*
+- **Computer Vision Intern** Technosamarthyam *(Dec 2017- June -2018)*
+- **Robotics and Automation Intern** Ford India pvt.ltd *(June 2017 - Aug 2017)*
 
 **[Click here](/cv.md)** to read more details about my experience
 
