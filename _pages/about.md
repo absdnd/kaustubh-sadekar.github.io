@@ -28,7 +28,7 @@ feature_row:
   - image_path: ../images/pixocube.gif
     excerpt: "[Interractive 3D cube using face detection and kalman filter based tracking using OpenCV for rendering and No OpenGL](portfolio/p190-Interractive-3D-cube-using-face-detection-and-kalman-filter-based-tracking/)"
 ---
-I am a Junior Research Fellow at the Indian Institute of Technology Gandhinagar, working under the valuable guidance of [Prof. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/index.html). My current research is focused on Geometric Deep Learning methods to solve the following problems - improving the quality of incomplete structured light scans, surface analysis and restoration of broken 3D objects, and learning texture for 3D shapes using multiview RGB images. I got curious and interest in Geometric Deep Learning while working on Monocular Visual SLAM methods for Omnidirectional Cameras at the Autonomous Robots and Multi-robot Systems [(ARMS) Lab of the Indian Institute of Technology Bombay](https://www.sc.iitb.ac.in/robotics/index.html), as a Research Associate under the valuable guidance of [Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/) and [Prof. Abhishek Gupta](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Abhishek%20Gupta).
+I am a Junior Research Fellow at the Indian Institute of Technology Gandhinagar, working under the valuable guidance of [Prof. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/index.html). My current research is focused on Geometric Deep Learning methods to solve the following problems - improving the quality of incomplete structured light scans, surface analysis and restoration of broken 3D objects, and learning texture for 3D shapes using multiview RGB images. I got curious and interest in 3D Deep Learning while working on Monocular Visual SLAM methods for Omnidirectional Cameras at the Autonomous Robots and Multi-robot Systems [(ARMS) Lab of the Indian Institute of Technology Bombay](https://www.sc.iitb.ac.in/robotics/index.html), as a Research Associate under the valuable guidance of [Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/) and [Prof. Abhishek Gupta](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Abhishek%20Gupta). Along with estimating the 3D information from images, it is equally important to make sense of this 3D data. This motivated me to explore 3D Deep Learning further.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkaustubh-sadekar.github.io&count_bg=%233F8AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -42,13 +42,18 @@ Experience
 
 **[Click here](/cv.md)** to read more details about my experience
 
+
+Major Projects
+==============
+
+{% include feature_row %}
+
+## [See all projects](/portfolio.html)
+
+
 Research Interests
 ==================
-The key objective that drives my research interests is to design a robust robotic perception system. A system that allows robots to understand the surrounding environment semantically (what is it that they are looking at), and geometrically (how far is it from them) so they can interract and explore the 3D world just like humans. I am optimistic about the future when the robots will coexist with humans and augment their lives in different aspects.
 
-Some of the topics I am interested in are as follows:
-
-- Geometric Deep Learning.
 - 3D shape and texture reconstruction from a sparse set of images.
 - Implicit representation of 3D data.
 - Object detection and 6D pose estimation in RGB and RGB-D images.
@@ -61,14 +66,6 @@ Some of the topics I am interested in are as follows:
 - 360&deg; video and image processing.
 
 
-Major Projects
-==============
-
-{% include feature_row %}
-
-### [See all projects](/portfolio.html)
-
-
 Know More About Me
 ==================
 
@@ -78,4 +75,4 @@ I love learning and understanding new concepts and topics by attending online le
 
 **The musical side of me**
 
-The first keyboard I used in my life was not the one we use for typing. It was a musical keyboard (Casio-SA model). I started learning classical music at the age of 9 and completed visharadh in harmonium instrument at 16. I enjoy dabbling around with different musical instruments. There are a few videos I have uploaded on [my music channel](https://www.youtube.com/channel/UCnjN-kM-KjY7K7gJyOsZi7g/videos). Recently I have just started learning Guitar.
+The first keyboard I used in my life was not the one we use for typing. It was a musical keyboard (Casio-SA model). I started learning classical music at the age of 9 and completed Visharadh in harmonium instrument at 16. I enjoy dabbling around with different musical instruments. There are a few videos I have uploaded on [my music channel](https://www.youtube.com/channel/UCnjN-kM-KjY7K7gJyOsZi7g/videos). Recently I have just started learning Guitar.
