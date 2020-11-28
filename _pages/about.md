@@ -14,7 +14,7 @@ feature_row:
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p150-Analysis-of-Visual-SLAM-methods/)"
   - image_path: ../images/e2feye.gif
-    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera.md)"
+    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera/)"
   - image_path: ../images/stereoLogo.gif
     excerpt: "[Low-Cost Custom Stereo Camera From USB Webcams](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
