@@ -9,12 +9,12 @@ redirect_from:
 feature_row:
   - image_path: ../images/1.gif
     alt: "placeholder image 1"
-    excerpt: "[SPARK-Robotic sketching arm](portfolio/p100-spark-robotic-sketching-arm/)"
+    excerpt: "[SPARK - ROS Based Robotic Sketching Arm With Visual Feedback Using AruCo Markers](portfolio/p100-spark-robotic-sketching-arm/)"
   - image_path: ../images/SLAM.gif
     alt: "placeholder image 2"
     excerpt: "[Analysis of Visual SLAM methods](portfolio/p150-Analysis-of-Visual-SLAM-methods/)"
   - image_path: ../images/e2feye.gif
-    excerpt: "[OmniCV-Library-containing-implementation-of-various-mathematical-models-for-omnidirectional-camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera/)"
+    excerpt: "[OmniCV - A Library containing implementations of various mathematical models of omnidirectional camera](portfolio/p170-OmniCV-Library-contains-implementation-of-various-mathematical-models-for-omnidirectional-camera/)"
   - image_path: ../images/stereoLogo.gif
     excerpt: "[Low-Cost Custom Stereo Camera From USB Webcams](portfolio/p172-Low-Cost-Stereo-Camera-From-USB-Webcams/)"
   - image_path: ../images/FallDetection2.gif
@@ -24,9 +24,9 @@ feature_row:
   - image_path: ../images/CashewGAN.gif
     excerpt: "[Cashew GAN](portfolio/p176-Cashew-GAN/)"
   - image_path: ../images/lump-detection.gif
-    excerpt: "[Real-time vision software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
+    excerpt: "[Real-time visual inspection software for lump detection in fiber optic cables](portfolio/p180-Real-time-vision-software-for-lump-detection-in-fiber-optic-cables/)"
   - image_path: ../images/pixocube.gif
-    excerpt: "[Interractive 3D cube using face detection and kalman filter based tracking using OpenCV for rendering and No OpenGL](portfolio/p190-Interractive-3D-cube-using-face-detection-and-kalman-filter-based-tracking/)"
+    excerpt: "[Interactive 3D cube using face detection and Kalman filter based tracking using OpenCV for rendering and No OpenGL](portfolio/p190-Interractive-3D-cube-using-face-detection-and-kalman-filter-based-tracking/)"
 ---
 I am a Junior Research Fellow at the Indian Institute of Technology Gandhinagar, working under the valuable guidance of [Prof. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/index.html). My current research is focused on Geometric Deep Learning methods to solve the following problems - improving the quality of incomplete structured light scans, surface analysis and restoration of broken 3D objects, and learning texture for 3D shapes using multiview RGB images. I got curious and interest in 3D Deep Learning while working on Monocular Visual SLAM methods for Omnidirectional Cameras at the Autonomous Robots and Multi-robot Systems [(ARMS) Lab of the Indian Institute of Technology Bombay](https://www.sc.iitb.ac.in/robotics/index.html), where I worked as a Research Associate under the valuable guidance of [Prof. Leena Vachhani](https://www.sc.iitb.ac.in/~leena/) and [Prof. Abhishek Gupta](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Abhishek%20Gupta). Along with estimating the 3D information from images, it is equally important to make sense of this 3D data. This motivated me to explore 3D Deep Learning further.
 
