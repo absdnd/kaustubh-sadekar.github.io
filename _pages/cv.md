@@ -62,7 +62,7 @@ Selected in top 32 teams out of 235 teams all over the world. Developed [Cyclops
 Third position among teams from all over the world.
 * [**Shell Eco-Marathon Asia 2017 - Battery-Electric Prototype car category**](http://www.teamkaizenindia.com/team.php) 
 Secured 16th position in Asia and 2nd in India. Achieved efficiency of 81 km/kWh.
-* **Visharadh (B.A. in Indian Classical music -  Harmonium)** 
-Completed vishradh at the age of 16 years.
+* **Visharad (B.A. in Indian Classical music -  Harmonium)** 
+Completed vishrad at the age of 16 years.
 * **Best Boy Award (Junior Category)** 
 Best Boy Award at New Era Senior Secondary School in 10th grade.
