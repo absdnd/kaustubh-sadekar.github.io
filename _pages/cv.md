@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B Tech in Electrical Engineering, Pandit Deendayal Petroleum Universities, 2018
+* B Tech in Electrical Engineering, Pandit Deendayal Petroleum University, 2018
 
 Work experience
 ======
