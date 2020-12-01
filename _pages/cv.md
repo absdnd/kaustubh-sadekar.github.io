@@ -56,7 +56,7 @@ Skills
 
 Achievements and awards
 ======
-* [**OpenCI Spatial-AI Phase-1 Winners**](https://opencv.org/announcing-the-opencv-spatial-ai-competition-sponsored-by-intel-phase-1-winners/) 
+* [**OpenCV Spatial-AI Phase-1 Winners**](https://opencv.org/announcing-the-opencv-spatial-ai-competition-sponsored-by-intel-phase-1-winners/) 
 Selected in top 32 teams out of 235 teams all over the world. Developed [Cyclops - A Spatial AI-based Assistant For Visually Impaired People](https://github.com/kaustubh-sadekar/Cyclops-Visual-Assistant)
 * [**IEEE - IAS International Students Robotics Demonstration Competition**](https://ias.ieee.org/images/files/CMD/2017/2017-01_IAS_CMD_Robotics_Demonstration_Contest___2016_Winners.pdf) 
 Third position among teams from all over the world.
