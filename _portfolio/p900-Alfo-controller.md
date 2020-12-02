@@ -10,6 +10,7 @@ to play my favorite game, NFS Most Wanted, with a single hand.
 * Aluminium foils were used as switches to enable special commands like NOS, Slow motion, gear transmission, etc.
 * Used Arduino Leonardo to augment keyboard key press
 
+### [Link to the video](https://www.youtube.com/watch?v=QaoySBvV2Vk&t=5s)
 
 <p align='center'>
   <img src='/images/alfo-controller.gif'>
